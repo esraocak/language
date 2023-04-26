@@ -5,7 +5,7 @@
 
 ## Description
 
-Project aims to create an language cards app.
+Project aims to create an language cards app. When you click on the cards, you can see the details.
 
 ## Objective
 
